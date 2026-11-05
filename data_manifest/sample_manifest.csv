@@ -1,0 +1,13 @@
+accession,cell_line,kras_variant,comparison_group,evidence
+GSM9306522,AsPC-1,G12D,Non_Q61H,Long_et_al_2026_Figure_2A
+GSM9306523,HPAC,G12D,Non_Q61H,Long_et_al_2026_Figure_2A
+GSM9306524,Hs766T,Q61H,KRAS_Q61H,Long_et_al_2026_Figure_2A
+GSM9306525,HuPT3,G12R,Non_Q61H,Long_et_al_2026_Figure_2A
+GSM9306526,MIA PaCa-2,G12C,Non_Q61H,Long_et_al_2026_Figure_2A
+GSM9306527,Pa01C,G12D,Non_Q61H,Long_et_al_2026_Figure_2A
+GSM9306528,Pa02C,Q61H,KRAS_Q61H,Long_et_al_2026_Figure_2A
+GSM9306529,Pa04C,G12V,Non_Q61H,Long_et_al_2026_Figure_2A
+GSM9306530,Pa14C,G12D,Non_Q61H,Long_et_al_2026_Figure_2A
+GSM9306531,Pa16C,G12D,Non_Q61H,Long_et_al_2026_Figure_2A
+GSM9306532,PANC-1,G12D,Non_Q61H,Long_et_al_2026_Figure_2A
+GSM9306533,T3M4,Q61H,KRAS_Q61H,Long_et_al_2026_Figure_2A

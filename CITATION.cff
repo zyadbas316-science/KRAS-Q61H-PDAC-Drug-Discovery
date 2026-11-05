@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this research code, please cite this repository and the underlying dataset, paper and structure sources listed in the README."
+title: "KRAS Q61H Pancreatic Cancer (PDAC): Transcriptomics, LDHB Prioritization, Docking and Molecular Dynamics"
+type: software
+authors:
+  - name: "zyadbas316-science"
+repository-code: "https://github.com/zyadbas316-science/KRAS-Q61H-PDAC-Drug-Discovery"
+abstract: "Curated exploratory bioinformatics and molecular-modeling archive with explicit scientific limitations and corrected KRAS group mapping."
+license: MIT
+keywords:
+  - KRAS
+  - KRAS Q61H
+  - pancreatic ductal adenocarcinoma
+  - PDAC
+  - transcriptomics
+  - LDHB
+  - molecular docking
+  - molecular dynamics
